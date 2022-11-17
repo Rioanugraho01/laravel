@@ -14,8 +14,8 @@
         <br>
             <br>
                 <br>
-                    <h2 align="center">M. TOYYIBAL ARDANI</h2>
-                    <h2 align="center">362155401027</h2>
+                    <h2 align="center">RIO ANUGRAH PUTRA</h2>
+                    <h2 align="center">362155401019</h2>
                 <br>
             <br>
         <br>
